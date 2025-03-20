@@ -13,3 +13,15 @@ This repository is a collection of solutions to a diverse range of LeetCode prob
 3. **Learn Through Examples:** Explore a variety of problems to see different approaches and gain insights into the thought process behind each solution.
 
 Ready to embark on this coding adventure? Feel free to explore the solutions and use this repository as a resource for your own learning journey. Happy coding! 🚀✨
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xradeel/Algorithm-Playground/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xradeel/Algorithm-Playground/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+<!---LeetCode Topics End-->
