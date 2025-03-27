@@ -27,5 +27,6 @@ Ready to embark on this coding adventure? Feel free to explore the solutions and
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/xradeel/Algorithm-Playground/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/xradeel/Algorithm-Playground/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
