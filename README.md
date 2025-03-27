@@ -24,4 +24,8 @@ Ready to embark on this coding adventure? Feel free to explore the solutions and
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xradeel/Algorithm-Playground/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/xradeel/Algorithm-Playground/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
